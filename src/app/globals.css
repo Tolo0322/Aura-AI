@@ -6,10 +6,12 @@
   --foreground: #ffffff;        /* Blanco para legibilidad sobre fondo negro */
 
   /* Colores principales */
-  --primary: #8B5CF6;           /* Violeta Eléctrico */
-  --primary-foreground: #3C0091; /* Texto blanco sobre primario */
+  --primary: #d0bcff;           /* Violeta Eléctrico */
+   /* Texto blanco sobre primario */
 
-  --secondary: #0EA5E9;         /* Azul Neón */;
+  --secondary: #8b5cf6;
+  --secondary-foreground: #3C0091; /* Texto blanco sobre secundario */
+  --secondary-hover: #7c3aed;
 
   --tertiary: #B06B00;          /* Terciario (ámbar) */
 
@@ -25,6 +27,7 @@
   --color-primary-foreground: var(--primary-foreground);
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary-hover: var(--secondary-hover);
   --color-tertiary: var(--tertiary);
   --color-surface: var(--surface);
   --color-border: var(--border);
