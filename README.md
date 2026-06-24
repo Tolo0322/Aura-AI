@@ -277,7 +277,7 @@ La aplicación será desplegada en Vercel.
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[@tolo0322](https://github.com/Tolo322)** como proyecto de aprendizaje avanzado en React, Next.js, TypeScript e Inteligencia Artificial.
+Desarrollado por **[@tolo0322](https://github.com/Tolo0322)** como proyecto de aprendizaje avanzado en React, Next.js, TypeScript e Inteligencia Artificial.
 
 ---
 
