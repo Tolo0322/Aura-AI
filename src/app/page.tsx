@@ -1,11 +1,12 @@
-import { Navbar } from "@/components/layout/Navbar";
+import { Hero } from "@/components/home/hero";
+
 
 export default function Home() {
   return (
     <>
-      <Navbar />
-      <div className="flex-1 flex items-center justify-center">
-        <h1>hello world</h1>
+      
+      <div className="flex-1 flex justify-center">
+        <Hero />
       </div>
     </>
   );
